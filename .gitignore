@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+#result files
+bigfile
+
+#history
+.history
+#vscode file
+.vscode
+
